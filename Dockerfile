@@ -1,5 +1,5 @@
 #Use Java 17
-FROM openjdk-17-jre
+FROM openjdk:17-jdk
 
 #Set Working directory
 WORKDIR /app
